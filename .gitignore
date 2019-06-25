@@ -1,0 +1,9 @@
+.DS_Store
+/MathJax/
+*.ipynb
+*.pyc
+*.data
+/.idea/
+vcs.xml
+/__pycache__/
+*Rhistory
